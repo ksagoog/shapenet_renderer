@@ -1,3 +1,5 @@
+Kyle was here.
+
 This is a compact implementation of a batched OBJ- and PLY-renderer in blender. The inspiration was drawn
 from the "Stanford Shapenet Renderer". This code can be used to render datasets such as the ones used in the
 "Scene Representation Networks" paper.
